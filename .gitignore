@@ -1,0 +1,8 @@
+build/
+build.gradle
+gradle/
+gradlew.bat
+settings.gradle
+
+*.class
+*.lock
